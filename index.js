@@ -13,7 +13,12 @@ class Timer {
         this.interval = setInterval(this.tick, 1000);
     }
     tick = () => {
-        this.timeRemaining = this.timeRemaining - 1;
+        if (this.timeRemaining <= 0) {
+            this.pause();
+            console.log('paused');
+        } else {
+            this.timeRemaining = this.timeRemaining - 1;
+        }
     }
     pause = () => {
         clearInterval(this.interval);
