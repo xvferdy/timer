@@ -3,17 +3,17 @@
 > :information_source: Latihan Class javascript
 
 ## About the Project
-#### Introduction
+**Introduction** </br>
 A simple countdown timer.
 
-#### Screenshoot :rainbow:
+**Screenshoot** :rainbow: </br>
 <img src="timer.png">
 
-#### Technologies
+**Technologies** </br>
 Javascript
 
-#### Launch
+**Launch** </br>
 Demo - https://xvferdy.github.io/timer/
 
-#### Acknowledgements
+**Acknowledgements** </br>
 Font Awesome - [fontawesome.com](https://fonts.google.com/)
