@@ -7,7 +7,7 @@
 A simple countdown timer.
 
 #### Screenshoot :rainbow:
-<img src="images/overview.png">
+<img src="timer.png">
 
 #### Technologies
 Javascript
