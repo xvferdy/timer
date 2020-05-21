@@ -16,4 +16,4 @@ Javascript
 Demo - https://xvferdy.github.io/timer/
 
 **Acknowledgements** </br>
-Font Awesome - [fontawesome.com](https://fonts.google.com/)
+Font Awesome - [fontawesome.com](https://fontawesome.com/)
